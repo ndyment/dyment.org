@@ -1,0 +1,35 @@
+baseURL = "https://dyment.org/"
+languageCode = "en-us"
+title = "dyment.org - the world in 2020"
+theme = "osprey"
+tags = ["dyment", "robots", "automation", "fear"]
+canonifyURLS = true
+googleAnalytics = "UA-101326560-1"
+
+[Params]
+    author = "Nick Dyment"
+    description = "Curious about the future"
+    logoBig = "/images/osprey-logo.png"
+    logoSmall = "/images/osprey-logo.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/osprey.png"
+    linkedin = "nick-dyment-02779963"
+    github = "ndyment"
+    email = ""
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+
+[[menu.main]]
+    name = "Robots"
+    url  = "/#gallery"
+    weight = 1
+[[menu.main]]
+    name = "Future"
+    url  = "/#blog"
+    weight = 2
+[[menu.main]]
+    name = "Pager"
+    url  = "/#contact"
+    weight = 3
