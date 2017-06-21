@@ -7,10 +7,11 @@ canonifyURLS = true
 googleAnalytics = "UA-101326560-1"
 
 [Params]
+    tagline="dyment.org"
     author = "Nick Dyment"
     description = "Curious about the future"
-    logoBig = "/images/osprey-logo.png"
-    logoSmall = "/images/osprey-logo.png"
+    logoBig = "/images/roboto.jpg"
+    logoSmall = "/images/roboto.jpg"
     favicon = "favicon.ico"
     opengraphImage = "/images/osprey.png"
     linkedin = "nick-dyment-02779963"

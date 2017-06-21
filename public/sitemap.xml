@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dyment.org/blog/youtube-vs-a-school/</loc>
+    <lastmod>2017-06-20T22:02:41-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dyment.org/blog/the-future-of-snapchat/</loc>
     <lastmod>2017-06-19T21:42:56-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://dyment.org/blog/</loc>
-    <lastmod>2017-06-19T21:42:56-04:00</lastmod>
+    <lastmod>2017-06-20T22:02:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +30,7 @@
   
   <url>
     <loc>https://dyment.org/</loc>
-    <lastmod>2017-06-19T21:42:56-04:00</lastmod>
+    <lastmod>2017-06-20T22:02:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
